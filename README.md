@@ -21,13 +21,13 @@
    + Introdução ao Spring;
    + Configurando o ambiente;
    + Criando projeto;
+   + Compreendendo a estrutura de um projeto Spring;
    + Modelos;
    + Controles;
    + Repositórios;
    + Annotations;
    + Conexão com o banco MySQL;
    + Trabalhando com requisições (Get, Post, Put e Delete);
-   + Testando aplicações com Postman;
-   + Estrutura de escolha.
+   + Testando aplicações com Postman.
   </div>
 </div>
